@@ -1,0 +1,4 @@
+GET_RELATIONSHIP remus Maternal-Aunt
+GET_RELATIONSHIP william Paternal-Uncle
+GET_RELATIONSHIP draco Maternal-Uncle
+GET_RELATIONSHIP william Paternal-Aunt
